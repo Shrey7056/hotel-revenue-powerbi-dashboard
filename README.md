@@ -27,15 +27,15 @@ A 3-page Power BI dashboard that analyses revenue, occupancy, booking channels a
 ### 3. Housekeeping Operations
 ![Housekeeping Operations](images/03_housekeeping_operations.png)
 
+
 ## Key findings
 
-- **Revenue grew [6.9]% in 2025**, driven mainly by a higher ADR ([$267.65] vs [$253.94]) while occupancy rose about 1 point.
-- **The Cape Cod resort is highly seasonal**: occupancy swings from about [17]% in January to about [81]% in July.
-- **Online travel agencies are the most expensive channels.** Booking.com has the highest cancellation rate ([29]%), and OTAs together cost about [$2.7M] in commission.
-- **Group guests book about [73] days ahead and Business guests about [12]**, which supports different pricing windows per segment.
-- **Inspection pass rates drop from [93.9]% to [90.6]%** on days when attendants clean more than 15 rooms each.
-
-*(Replace the bracketed numbers with the values from your own dashboard.)*
+- **Revenue grew 6.9% in 2025** ($24.9M vs $23.3M in 2024), driven mainly by a higher ADR ($267.65 vs $253.94), while occupancy rose about 1 point (58.2% to 59.2%).
+- **Boston Seaport earns two-thirds of group revenue** ($32.1M of $48.1M across 2024–2025).
+- **The Cape Cod resort is highly seasonal**: occupancy swings from about 17% in January to about 81% in July.
+- **Online travel agencies are the most expensive channels.** Booking.com has the highest cancellation rate (28.9%), and Booking.com and Expedia together cost $2.74M in commission.
+- **Group guests book about 73 days ahead and Business guests about 12**, which supports different pricing windows for each segment.
+- **Inspection pass rates drop from 93.9% to 90.6%** on days when attendants clean more than 15 rooms each.
 
 ## Data model
 
