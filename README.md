@@ -84,4 +84,4 @@ SUMX ( Bookings, Bookings[RoomRevenue] * RELATED ( Channels[CommissionPct] ) )
 ## About me
 
 **Shrey Upadhyay**, Data Analyst · M.S. Data Science (University of Essex)
-[LinkedIn](https://www.linkedin.com/in/shrey-upadhyay-0435b724b) · [GitHub](https://github.com/ShREy030)
+[LinkedIn](https://www.linkedin.com/in/shrey-upadhyay-0435b724b) · [GitHub](https://github.com/Shrey7056)
